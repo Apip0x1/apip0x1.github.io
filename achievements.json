@@ -1,44 +1,16 @@
 [
   {
-    "title": "1st Place — UIN Sunan Ampel CTF 2024",
+    "title": "Finalist — Schematics National Programming Contest 2025 (CTF)",
     "category": "CTF Competition",
-    "description": "Secured first place in a nationally attended Capture the Flag competition, solving challenges across web exploitation, forensics, and cryptography.",
-    "year": "2024",
-    "icon": "🏆"
-  },
-  {
-    "title": "Top 10 — Gemastik XVII Cybersecurity",
-    "category": "National Competition",
-    "description": "Reached top 10 nationally in Indonesia's most prestigious student technology competition, competing in the cybersecurity track.",
-    "year": "2024",
-    "icon": "🥈"
-  },
-  {
-    "title": "Finalist — COMPFEST 16 CTF",
-    "category": "CTF Competition",
-    "description": "Selected as finalist in COMPFEST, University of Indonesia's flagship technology event, competing against top university teams nationwide.",
-    "year": "2024",
+    "description": "Selected as a finalist in a national-level Capture The Flag competition, solving challenges in web exploitation and cryptography.",
+    "year": "2025",
     "icon": "🎯"
   },
   {
-    "title": "Certified — Google Cybersecurity Professional",
-    "category": "Certification",
-    "description": "Completed the Google Cybersecurity Professional Certificate covering network security, threat analysis, SIEM tools, and incident response.",
-    "year": "2024",
-    "icon": "📜"
-  },
-  {
-    "title": "2nd Place — ITS Cyber Jawara CTF",
+    "title": "2nd Place — Wreck IT 6.0 CTF Competition",
     "category": "CTF Competition",
-    "description": "Earned runner-up position at the Institut Teknologi Sepuluh Nopember cybersecurity championship, specializing in reverse engineering and pwn challenges.",
-    "year": "2023",
+    "description": "Awarded 2nd place in a junior cybersecurity competition, solving challenges related to web security and cryptography.",
+    "year": "2025",
     "icon": "🥈"
-  },
-  {
-    "title": "HackTheBox — Pro Hacker Rank",
-    "category": "Platform Achievement",
-    "description": "Attained Pro Hacker rank on HackTheBox by consistently solving active and retired machines across multiple difficulty levels.",
-    "year": "2023",
-    "icon": "⚡"
   }
 ]
